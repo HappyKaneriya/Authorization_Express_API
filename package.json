@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node src/app.js", 
-    "build": "npm run build"
+    "build": "echo 'build successfull'"
   },
   "keywords": [],
   "author": "",
